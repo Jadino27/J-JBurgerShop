@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Jadino27/J-JBurgerShop/static/css/main.79022e3f.css",
-    "main.js": "/Jadino27/J-JBurgerShop/static/js/main.0c264d2c.js",
-    "static/media/burger3.png": "/Jadino27/J-JBurgerShop/static/media/burger3.11eccfcb1a45834ac9d7.png",
-    "static/media/burger2.png": "/Jadino27/J-JBurgerShop/static/media/burger2.3a02b94cd44d825ebb94.png",
-    "static/media/bg.jpg": "/Jadino27/J-JBurgerShop/static/media/bg.8bcdc477de5711ccac1c.jpg",
-    "static/media/bg.png": "/Jadino27/J-JBurgerShop/static/media/bg.e25df216162c9b2fc988.png",
-    "static/media/fa-solid-900.ttf": "/Jadino27/J-JBurgerShop/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
-    "static/media/burger1.png": "/Jadino27/J-JBurgerShop/static/media/burger1.6cbf3dc63aff1ced8e98.png",
-    "static/media/myself1.jpeg": "/Jadino27/J-JBurgerShop/static/media/myself1.51a99388a1a812fc6b04.jpeg",
-    "static/media/fa-brands-400.ttf": "/Jadino27/J-JBurgerShop/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
-    "static/media/fa-solid-900.woff2": "/Jadino27/J-JBurgerShop/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
-    "static/media/fa-brands-400.woff2": "/Jadino27/J-JBurgerShop/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
-    "static/media/fa-regular-400.ttf": "/Jadino27/J-JBurgerShop/static/media/fa-regular-400.d87474231f4192884802.ttf",
-    "static/media/fa-regular-400.woff2": "/Jadino27/J-JBurgerShop/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
-    "static/media/skj.jpg": "/Jadino27/J-JBurgerShop/static/media/skj.2a1b9678d61abc084071.jpg",
-    "static/media/fa-v4compatibility.ttf": "/Jadino27/J-JBurgerShop/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
-    "static/media/fa-v4compatibility.woff2": "/Jadino27/J-JBurgerShop/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
-    "index.html": "/Jadino27/J-JBurgerShop/index.html",
-    "main.79022e3f.css.map": "/Jadino27/J-JBurgerShop/static/css/main.79022e3f.css.map",
-    "main.0c264d2c.js.map": "/Jadino27/J-JBurgerShop/static/js/main.0c264d2c.js.map"
+    "main.css": "/J-JBurgerShop/static/css/main.d1885515.css",
+    "main.js": "/J-JBurgerShop/static/js/main.641dc472.js",
+    "static/media/burger3.png": "/J-JBurgerShop/static/media/burger3.11eccfcb1a45834ac9d7.png",
+    "static/media/burger2.png": "/J-JBurgerShop/static/media/burger2.3a02b94cd44d825ebb94.png",
+    "static/media/bg.jpg": "/J-JBurgerShop/static/media/bg.8bcdc477de5711ccac1c.jpg",
+    "static/media/bg.png": "/J-JBurgerShop/static/media/bg.e25df216162c9b2fc988.png",
+    "static/media/fa-solid-900.ttf": "/J-JBurgerShop/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/burger1.png": "/J-JBurgerShop/static/media/burger1.6cbf3dc63aff1ced8e98.png",
+    "static/media/myself1.jpeg": "/J-JBurgerShop/static/media/myself1.51a99388a1a812fc6b04.jpeg",
+    "static/media/fa-brands-400.ttf": "/J-JBurgerShop/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/J-JBurgerShop/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/J-JBurgerShop/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/J-JBurgerShop/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/J-JBurgerShop/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/skj.jpg": "/J-JBurgerShop/static/media/skj.2a1b9678d61abc084071.jpg",
+    "static/media/fa-v4compatibility.ttf": "/J-JBurgerShop/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/J-JBurgerShop/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/J-JBurgerShop/index.html",
+    "main.d1885515.css.map": "/J-JBurgerShop/static/css/main.d1885515.css.map",
+    "main.641dc472.js.map": "/J-JBurgerShop/static/js/main.641dc472.js.map"
   },
   "entrypoints": [
-    "static/css/main.79022e3f.css",
-    "static/js/main.0c264d2c.js"
+    "static/css/main.d1885515.css",
+    "static/js/main.641dc472.js"
   ]
 }
